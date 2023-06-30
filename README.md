@@ -16,7 +16,7 @@ A minha está lá:
 
 ---
 
-## Link Úteis
+## Links Úteis
 
 1. [Tutorial](https://www.w3schools.com/git/default.asp)
 2. [GuestBook](https://w3schools-test.github.io/)

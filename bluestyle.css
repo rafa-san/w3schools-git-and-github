@@ -1,9 +1,18 @@
 body {
-  background-color: lightblue;
+  background-color: powderblue;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   
   h1 {
   color: navy;
-  margin-left: 20px;
+  text-align: center;
+  }
+
+  img {
+    display: block;
+    margin: auto;
+  }
+
+  p {
+    text-align: center;
   }
